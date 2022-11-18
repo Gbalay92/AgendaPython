@@ -1,0 +1,29 @@
+{
+    "contacto": [
+        {
+            "nombre": "Gonzalo",
+            "email": "zalo.bl92@hotmail.com",
+            "fecha_de_nacimiento": "04/10/1992"
+        },
+        {
+            "nombre": "Gonzalo",
+            "email": "zalo.bl92@gmail.com",
+            "fecha_de_nacimiento": "04/10/1992"
+        },
+        {
+            "nombre": "Alberto",
+            "email": "a.pillado@liceolapaz.net",
+            "fecha_de_nacimiento": "28/10/1994"
+        },
+        {
+            "nombre": "Ramon",
+            "email": "r.canela@liceolapaz.net",
+            "fecha_de_nacimiento": "01/01/1993"
+        },
+        {
+            "nombre": "Pablo",
+            "email": "p.taboas@liceolpaz.net",
+            "fecha_de_nacimiento": "03/03/2001"
+        }
+    ]
+}
